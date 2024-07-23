@@ -1,9 +1,8 @@
 # 7 Days of Code: SQL! 🎲
 
-## 🐬 Dia 01: Criação e Inserção de Dados
+## 🐬 Dia 05: Agregação e Agrupamento com GROUP BY
 
-Neste primeiro dia, criamos o banco de dados `db_filmes` e as tabelas necessárias: `diretores`, `generos`, `avaliacoes` e `filmes`. Também populamos as tabelas com dados utilizando o Gemini do Google. 
+No quinto dia, utilizamos funções de agregação e a cláusula `GROUP BY` para analisar e resumir os dados. Calculamos o número total de filmes, a média das avaliações, e realizamos agrupamentos para contar filmes por gênero, calcular médias de avaliações por diretor e encontrar a maior avaliação por gênero.
 
-Esta etapa estabelece a estrutura básica do banco de dados e insere dados iniciais para facilitar as consultas nos próximos dias.
 
 
