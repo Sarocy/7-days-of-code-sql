@@ -1,9 +1,8 @@
 # 7 Days of Code: SQL! 🎲
 
-## 🐬 Dia 01: Criação e Inserção de Dados
+## 🐬  Dia 03: Filtragem e Ordenação de Filmes
 
-Neste primeiro dia, criamos o banco de dados `db_filmes` e as tabelas necessárias: `diretores`, `generos`, `avaliacoes` e `filmes`. Também populamos as tabelas com dados utilizando o Gemini do Google. 
+No terceiro dia, aplicamos filtros e ordenação nas consultas SQL para obter informações mais específicas sobre os filmes. Utilizamos as cláusulas `WHERE` e `ORDER BY` para selecionar filmes com avaliações acima de um determinado valor e ordená-los com base em critérios específicos.
 
-Esta etapa estabelece a estrutura básica do banco de dados e insere dados iniciais para facilitar as consultas nos próximos dias.
 
 
