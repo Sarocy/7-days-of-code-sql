@@ -1,9 +1,6 @@
 # 7 Days of Code: SQL! 🎲
 
-## 🐬 Dia 01: Criação e Inserção de Dados
+## 🐬 Dia 02: Consultas Básicas com DISTINCT
 
-Neste primeiro dia, criamos o banco de dados `db_filmes` e as tabelas necessárias: `diretores`, `generos`, `avaliacoes` e `filmes`. Também populamos as tabelas com dados utilizando o Gemini do Google. 
-
-Esta etapa estabelece a estrutura básica do banco de dados e insere dados iniciais para facilitar as consultas nos próximos dias.
-
+No segundo dia, focamos em consultas básicas utilizando `SELECT` e `DISTINCT`. Realizamos seleções de todos os filmes, diretores, gêneros e avaliações, além de consultas específicas para filtrar dados com base em critérios como o início dos nomes dos diretores e a presença de palavras nos títulos dos filmes.
 
